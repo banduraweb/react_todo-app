@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_todo-app/static/css/main.abae98c4.chunk.css",
-    "main.js": "/react_todo-app/static/js/main.7666501b.chunk.js",
-    "main.js.map": "/react_todo-app/static/js/main.7666501b.chunk.js.map",
+    "main.js": "/react_todo-app/static/js/main.d7d90226.chunk.js",
+    "main.js.map": "/react_todo-app/static/js/main.d7d90226.chunk.js.map",
     "runtime~main.js": "/react_todo-app/static/js/runtime~main.df364381.js",
     "runtime~main.js.map": "/react_todo-app/static/js/runtime~main.df364381.js.map",
-    "static/js/2.d1d0235a.chunk.js": "/react_todo-app/static/js/2.d1d0235a.chunk.js",
-    "static/js/2.d1d0235a.chunk.js.map": "/react_todo-app/static/js/2.d1d0235a.chunk.js.map",
+    "static/js/2.4e881a18.chunk.js": "/react_todo-app/static/js/2.4e881a18.chunk.js",
+    "static/js/2.4e881a18.chunk.js.map": "/react_todo-app/static/js/2.4e881a18.chunk.js.map",
     "index.html": "/react_todo-app/index.html",
-    "precache-manifest.db897b302808b74fdb20c1b8898fdd4f.js": "/react_todo-app/precache-manifest.db897b302808b74fdb20c1b8898fdd4f.js",
+    "precache-manifest.00b801cda3f680b18fcbd385a6550866.js": "/react_todo-app/precache-manifest.00b801cda3f680b18fcbd385a6550866.js",
     "service-worker.js": "/react_todo-app/service-worker.js",
     "static/css/main.abae98c4.chunk.css.map": "/react_todo-app/static/css/main.abae98c4.chunk.css.map"
   }
